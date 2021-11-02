@@ -1,0 +1,13 @@
+package alprooo;
+
+public class ros {
+
+	public static void main(String args[]) {	
+		for(int y = 1; y < 7; y = y + 1) {
+		
+			System.out.print("value of y : " +y);
+			System.out.print("\n");
+		};
+	}
+
+}
